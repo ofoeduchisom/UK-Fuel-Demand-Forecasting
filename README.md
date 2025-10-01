@@ -108,6 +108,3 @@ Five models compared:
 3. Prepare surge capacity for forecasted peak periods
 4. Retrain models monthly with updated inflation data
 
----
-
-**Prepared by:** Forecasting & Analytics Team
